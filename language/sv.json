@@ -1,21 +1,21 @@
 {
   "semantics": [
     {
-      "label": "Elements",
+      "label": "Element",
       "entity": "element",
       "field": {
-        "label": "Element type",
-        "description": "Library for this page."
+        "label": "Elementtyp",
+        "description": "Bibliotek för detta element."
       }
     },
     {
-      "label": "Label for help text",
-      "description": "Label for showing additional helpful information to the user.",
-      "default": "More information"
+      "label": "Etikett för hjälptext",
+      "description": "Etikett som visar tilläggsinformation som kan hjälpa användaren.",
+      "default": "Mer information"
     },
     {
-      "label": "Fill in additional help information",
-      "description": "Here you can fill in additional information for the user, which will be available when clicked."
+      "label": "Fyll i tilläggsinformation som kan hjälpa användaren",
+      "description": "Här kan du ange tilläggsinformation, som blir tillgänglig för användaren vid klick."
     }
   ]
 }
